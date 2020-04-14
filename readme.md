@@ -49,7 +49,7 @@ Each Dev Officer will be expected to lead a single project from conception to co
  - Design a proposal for a feasable project that supports one of the two pillars of _ACM_ Development. Proposal must include both information on the practical usage of the application as well as the technical requirements
  - Present an estimated timeline for completion of the project (maximum of one semester) MVP should be complete by the 10 week mark.
  - Work with any additional developers how would like to take an interest in coding for _ACM_
- - Demo project every two weeks to show completion of new features
+ - Demo project every two weeks to show completion of new features to the Director of Development and any other interested officers
  - Be responsible for all aspects for one individual project 
  - Document project for future use
  - In addition to working on their personal projects all dev officers will be expected to help maintain existing _ACM_ codebases such as the general _ACM_ Website. 
@@ -81,13 +81,19 @@ These stages will replace for _ACM_ Development that standard process of applica
 
 #### Technical Challenge
 
-Congrats if you've made it down this far, here's the set of small technical puzzles we'd like to see solved. We strongly encourage you to try your luck at these even if being a Dev Officer is not your primary goal. Completion of these challenges will indicate that you are ready to learn new tools and push through obstacles in your journey. 
+Congrats if you've made it down this far, here's the set of small technical challenges we'd like to see solved. We strongly encourage you to try your luck at these even if being a Dev Officer is not your primary goal. Completion of these challenges will indicate that you are ready to learn new tools and push through obstacles in your journey. 
 
 Note: These technical challenges are not meant to assess your prowess as a coder. We cannot expect everyone to be a master at all the various programming domains. The idea here is to challenge one's skills at problem solving and creativity. Some of these challenges may not even involve writing any code.
 
+All the challenges can be found at [acm-dev-challenges](http://acm-dev-challenge.surge.sh/)
+
+Below is a short summary of the challenges and what skill they are designed to assess
  - Challenge 1
+   - Knowing how to use Git/Github and collaborative tools. This introductory challenge is designed to ensure that our officers have the foundational skills required to develop a team project
  - Challenge 2
+   - Knowing how to use a simple API. This challenge involves writing code with the flexibility provided to choose any language or gramework that the developer is comfortable using. This challenge is designed to ensure that our officers have the minimum technical expertise to work with the available tools.
  - Challenge 3
+   - Knowing how to think outside the box. This challenge involves no code whatsoever and is meant to be more of a puzzle. This challenge is designed to ensure that our officers are able to think creatively and apply their problem solving skills without giving up.
 
 #### Project Proposal
 
@@ -103,6 +109,8 @@ The project proposal is one of the key parts of becoming a Dev Officer. This wil
 This proposal will replace the application/interview process for admission into _ACM_ Development as a Dev Officer
 
 #### Where do I submit? 
+
+For the technical challenges once you've followed all the instructions and finished adding your solutions into a git repo, shoot the link over to the Director of Development for review.
 
 Check the _ACM_ Slack Workspace for the _acm_dev_ channel, more information will be posted on there regarding proposal submission. Feel free to also use the channel to bounce ideas off of fellow officers and work together in solving the technical challenges. However, understand that each individual must have their own proposal to be considered for the Dev Officer position.
 
