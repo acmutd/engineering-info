@@ -4,11 +4,11 @@ Welcome to the team as a Dev Officer for Summer 2020! You are here because you s
 
 ### Summer 2020
 
-Over the course of Summer 2020, we will build these projects from start to completion. The goal is to make them available to full use by the acm community by the Fall Kickoff event. Keeping to the timeline present in the development proposals is important and we will ensure that your success in these projects is a priority. While it is still early, I encourage thinking about how best to improve adoption of our projects by the community once it has reached completion. 
+Over the course of Summer 2020, we will build these projects from start to completion. The goal is to make them available to full use by the _ACM_ community by the Fall Kickoff event. Keeping to the timeline present in the development proposals is important and we will ensure that your success in these projects is a priority. While it is still early, I encourage thinking about how best to improve adoption of our projects by the community once it has reached completion. 
 
 ### Timeline
 
-Since we are remote and unable to meet in-person it is very important to adhere to a timeline and have checkpoints along the way to ensure progress. For this summer, most of yout time and energy can be devoted towards your personal projects with minimal overhead due to the lack of frequent ACM events. Below is additional information on when the checkpoints are and how to submit progress markers.
+Since we are remote and unable to meet in-person, it is very important to adhere to a timeline and have checkpoints along the way to ensure progress. For this summer, most of yout time and energy can be devoted towards your personal projects with minimal overhead due to the lack of frequent _ACM_ events. Below is additional information on when the checkpoints are and how to submit progress markers.
 
 ##### Checkpoints 
 
@@ -37,7 +37,7 @@ During the demo the Dev Officer will be expected to cover the below listed point
 
 ### Team
 
-As indicated by your proposals, many of you have already elected to work alongside an existing ACM officer for your projects. In addition to this, there are many other ACM officers who have indicated that they would be interested to work with the selected Dev Officers on their projects. It is completely up to your discretion as a Dev Officer whether you choose to allow additional team members to join and provide their support. 
+As indicated by your proposals, many of you have already elected to work alongside an existing _ACM_ officer for your projects. In addition to this, there are many other _ACM_ officers who have indicated that they would be interested to work with the selected Dev Officers on their projects. It is completely up to your discretion as a Dev Officer whether you choose to allow additional team members to join and provide their support. A personal recommendation would be go through a small interview process to understand their skills and abilities. Accepting everyone who shows interest will lead to a team size that is difficult to manage from an organizational perspective. Speaking with and understanding the value added to the project by onboarding more developers will ensure that we make the best selections. Speak with the Director of Development if there are any concerns or if you would like to have more people join the team but are unsure of where to source talent from.
 
 ### Conclusion
 
