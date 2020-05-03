@@ -4,6 +4,10 @@
 
 _ACM_ Development is the newest division of _ACM_. Keeping to the culture of autonomy and innovation being key in an individual's role, in this division we provide our officers the independance to follow their passion in developing the next generation of software that powers the community to new heights. Learn how to join at the bottom.
 
+#### Summer 2020?
+
+_ACM_ Development will be creating projects over the summer! If your proposal to join (at the bottom) is accepted you have the opportunity to build an amazing project between May - August 2020!
+
 #### What do we do?
 
 _ACM_ Development will follow two primary avenues of growth. 
