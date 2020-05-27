@@ -39,6 +39,10 @@ During the demo the Dev Officer will be expected to cover the below listed point
 
 As indicated by your proposals, many of you have already elected to work alongside an existing _ACM_ officer for your projects. In addition to this, there are many other _ACM_ officers who have indicated that they would be interested to work with the selected Dev Officers on their projects. It is completely up to your discretion as a Dev Officer whether you choose to allow additional team members to join and provide their support. A personal recommendation would be go through a small interview process to understand their skills and abilities. Accepting everyone who shows interest will lead to a team size that is difficult to manage from an organizational perspective. Speaking with and understanding the value added to the project by onboarding more developers will ensure that we make the best selections. Speak with the Director of Development if there are any concerns or if you would like to have more people join the team but are unsure of where to source talent from.
 
-### Conclusion
+#### Questions
 
-Welcome to the team!
+Sometimes you may have additional questions. If the answer was not found in this readme please feel free to reach out to the [Director of Development](mailto:comet.acm@gmail.com) for _ACM_
+
+We request that you be as detailed as possible in your questions, doubts or concerns to ensure that we can be of maximum assistance. Thank you!
+
+![ACM Development](https://www.acmutd.co/brand/Development/Banners/light_dark_background.png)

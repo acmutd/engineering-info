@@ -118,6 +118,11 @@ For the technical challenges once you've followed all the instructions and finis
 
 Check the _ACM_ Slack Workspace for the _acm_dev_ channel, more information will be posted on there regarding proposal submission. Feel free to also use the channel to bounce ideas off of fellow officers and work together in solving the technical challenges. However, understand that each individual must have their own proposal to be considered for the Dev Officer position.
 
-#### What if I have more questions?
+#### Questions
 
-Ask around in the above mentioned channel or feel free to ask the Director of Development for any clarifications. 
+Sometimes you may have additional questions. If the answer was not found in this readme please feel free to reach out to the [Director of Development](mailto:comet.acm@gmail.com) for _ACM_
+
+We request that you be as detailed as possible in your questions, doubts or concerns to ensure that we can be of maximum assistance. Thank you!
+
+![ACM Development](https://www.acmutd.co/brand/Development/Banners/light_dark_background.png)
+
