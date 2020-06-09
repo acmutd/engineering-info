@@ -121,5 +121,43 @@ While GitHub satisfies many needs, there are other locations where we store our 
    - Location for saving livestreams, workshops and other streamed content.
 
 ### Why do we document?
+Documentation serves many purposes to both the writer and the reader. These reasons can be summarized into the following points.
+
+ - Clarity & Transparency
+   - We want information to be recorded and reside outside our minds. Keeping information regarding all the above mentioned items in a clearly documented way will allow for the organization to function effectively in a transparent manner. Particularly when working with a team this is especially important because it allows all members to be aware of what is happening and understand a project more thoroughly. Clear documentation also supports consistent development and focuses the team.
+ - Efficiency and Time Saving
+   - When working with multiple officers we want to ensure that information can be dispersed effectively. Documentation avoids repeting information and potentially missing crucial points. Furthermore, when working with new officers, it allows them to be caught up to date more quickly and be able to contribute faster.
+ - Permanent Record
+   - As developers we will not remain contributors to projects forever. When it is time to pass on the torch to the next team of ambitious developers, documentation serves to easily bridge the learning gap and help new contributors take over. Furthermore, it offers a reflective glance into the past to learn from legacy developers and use that to better the present organization.
+
+There are certainly many more benefits to documentation and many of those have been described in the other sections. One last note to meention is that our documentation is often what is seen by people - both internally and externally and therefore it reflects the thoughts, direction and voice of the organization. Documentation will outlast the person who wrote it and therefore it is important to write for the future while keeping in mind the lessons of the past.
 
 ### When do we document?
+ - Short Answer: All the time
+ - Long Answer: No seriously all the time
+
+The development lifecycle for a project consists of _3_ sections. Each of these steps requires adequate documentation to support it and ensure the success of the next step. We will briefly discuss these steps and how to connect documentation across all of them. 
+
+##### Development Lifecycle
+ - Pre-Development
+ - Development
+ - Post-Development
+
+###### Pre-Development
+Diving headfirst into a project with only an idea will result in little more than a prototype. It is important to think about the entire lifecycle of the project in advance to ensure optimal success. This means documenting clearly a proposal for the project and identifying the problem it seeks to solve, the audience it targets and technical process by which it accomplishes those goals. Refer to project proposal for more inforamtion on the items that should be documented before starting work.
+
+###### Development
+While developing a project, most documentation will revolve around the technical side. At step of the development process ensure that the documentation does not become more outdated than the code itself. A popular way to remedy this is to follow a strategy known as _Readme Driven Development_. In this strategy the documentation is written before the code itself. This ensures that developers follow through and code exactly what the requirements describe and keeps the documentation always newer than the code. Keep in mind to additionally document all design & architectural decisions as well to help all invested stakeholders gain a better understanding of why the end product may differ from the original outline.
+
+###### Post-Development
+Documentation at this stage should be reflective and thoroughly comprehensive. For a software project, this should include release notes, guides on using the project, information regarding the development and process for additional contributions. Keep in mind that once one stage of development for a project (MVP, v2.0, vFall2020) is completed it can also be seen as the starting stage for the next phase. The development cycle repeats and it is important for the documentation to always ensure that continued development on a project is possible instead of running into obstacles. Ensure that the next team of developers are capable of adding features and working on a codebase that they did not create. Avoid situations where developers need to start projects from scratch due to insufficient documentation surrounding a previous application.
+
+Ultimately, make sure to continuously document. From a technical perspective, treat documentation like code. Never let it get out of date and suffer from code rot. Keep it fresh and always seek to build upon the work previous members. Ask questions when documentation is unclear and if you see something wrong take it upon yourself to make the required fixes. Our words carry the voice of the organization and we should strive to keep it fresh and relevant at all times.
+
+### Questions
+
+Sometimes you may have additional questions. If the answer was not found in this readme please feel free to reach out to the [Director of Development](mailto:comet.acm@gmail.com) for _ACM_
+
+We request that you be as detailed as possible in your questions, doubts or concerns to ensure that we can be of maximum assistance. Thank you!
+
+![ACM Development](https://www.acmutd.co/brand/Development/Banners/light_dark_background.png)
