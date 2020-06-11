@@ -1,10 +1,10 @@
 # Documentation
 Writing documentation is perhaps one of the most important parts of working in a team environment. In this readme we will dicuss the _5_ key domains that will shed light on the best practices that we at the _Assosication for Computing Machinery_ seek to follow. 
 
+ - __Whom__ we document for
  - __What__ to document
  - __Where__ to document
  - __Why__ to document
- - __Whom__ we document for
  - __When__ to document
 
 ### Who do we document for?
@@ -16,16 +16,16 @@ Our documentation should focus on addressing the needs of _3_ primary stakeholde
  - Organizational Partners
  - Outside Community
 
-We can analyze the needs of each of these groupings and thereby understand how best to address them through our documentation. Below is a short description of each of the groupings, detailed explanations of why each is relevant is covered in the [why](./documentation.md) section.
+We can analyze the needs of each of these groupings and thereby understand how best to address them through our documentation. Below is a description of each of the groupings and how documentation is used to address their specific needs.
 
 ###### Development Team
-The development team comprises of yourself and your fellow contributors to the project. Your team works on a daily basis with the code and is more familiar with the intricate inner workings of it than anyone else. 
+The development team comprises of yourself and your fellow contributors to the project. Your team works on a daily basis with the code and is more familiar with its intricate inner workings than anyone else. Documentation for your development team should primarily consist of technical information, onboarding suggestions for new developers, guidance on best practices, maintainance and short term project issues/timelines.
 
 ###### Organizational Partners
-Partners at the organizational level correspond to the people who may not be directly involved in your project but have an active presence and interest in its development. Typically these include senior leadership, marketing & sales teams, and developers that may be working on other projects. Together all of these people have a strong vested interest in the success of the project. In many situations these stakeholders may be the end users of the application being created.
+Partners at the organizational level correspond to the people who may not be directly involved in your project but have an active presence and interest in its development. Typically these include senior leadership, marketing & sales teams, and developers that may be working on other projects. Together all of these people have a strong vested interest in the success of the project. In many situations these stakeholders may be the end users of the application being created. At this level, documentation should address concerns such as product vision and brand, usage and application guidelines, deployment and resource usage and long term project planning.
 
 ###### Outside Community
-The outside community represents all people that may show a curious interest in learning more about this application but are not involved in the direct creation, maintainance or usage of the software. As projects gain a strong foundation and start moving in the direction of becoming open source the outside community starts to pick up in importance. 
+The outside community represents all people that may show a curious interest in learning more about this application but are not involved in the direct creation, maintainance or usage of the software. As projects gain a strong foundation and start moving in the direction of becoming open source the outside community starts to pick up in importance. To the outside community documentation should fulfil needs such as understand the problem domain and how this solution tackles the issue. It should also contain information on how to contribute to the project and provide pointers to people they can reach out to for additional information regarding the project.
 
 ### What do we document?
  - Short Answer: Everything
