@@ -2,6 +2,10 @@
 
 Brief introduction to the project. Tags for build status and other relevant information. Links to additional resources such as a wiki or other reaadmes.
 
+# Motivation
+
+Short description as to why the project is created in the first place. 
+
 ### Quick Start
 
 How to run the project. Keep this as short as possible. 
@@ -10,9 +14,13 @@ How to run the project. Keep this as short as possible.
 
 Talk about 
  - development environment
+    -frameworks/languages used
  - potential bugs
  - project aliases
+  - project features
+    -screenshots
  - project structure & where to find code
+
 
 ### How to Contribute
 
@@ -28,6 +36,7 @@ Talk about
 ### Contributors
 
  - [Harsha Srikara](https://harshasrikara.com)
+ - [Aliah Shaira De Guzman] 
  - Other contributors
 
 ### Questions
