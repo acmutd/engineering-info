@@ -25,7 +25,7 @@ The development team comprises of yourself and your fellow contributors to the p
 Partners at the organizational level correspond to the people who may not be directly involved in your project but have an active presence and interest in its development. Typically these include senior leadership, marketing & sales teams, and developers that may be working on other projects. Together all of these people have a strong vested interest in the success of the project. In many situations these stakeholders may be the end users of the application being created. At this level, documentation should address concerns such as product vision and brand, usage and application guidelines, deployment and resource usage, and long term project planning.
 
 ###### Outside Community
-The outside community represents all people that may show a curious interest in learning more about this application but are not involved in the direct creation, maintainance, or usage of the software. As projects gain a strong foundation and start moving in the direction of becoming open source, the outside community starts to pick up in importance. To the outside community documentation should fulfil needs such as understand the problem domain and how this solution tackles the issue. It should also contain information on how to contribute to the project and provide pointers to people they can reach out to for additional information regarding the project.
+The outside community represents all people that may show a curious interest in learning more about this application but are not involved in the direct creation, maintainance or usage of the software. As projects gain a strong foundation and start moving in the direction of becoming open source the outside community starts to pick up in importance. To the outside community documentation should fulfill needs such as understand the problem domain and how this solution tackles the issue. It should also contain information on how to contribute to the project and provide pointers to people they can reach out to for additional information regarding the project.
 
 ### What do we document?
  - Short Answer: Everything
@@ -67,6 +67,8 @@ Code can be written in many ways to accomplish the same goal. As a team developi
     - `ACM Development : Documentation.md : Info message`
   - Comments
     - Comment your code for improved documentation. Ideally all files should have header comments that describe the function of this file and how it integrates with the rest of the application. Individual functions should have doc comments (refer to javadoc/jsdoc for more information on syntax) that provide quick insight into what the function performs, its input and output parameters and any dependencies. Inline documentation should be reserved for atypical actions that may not make obvious sense when reading through it. For most situations, code should be as self-explanatory as possible.
+   - Resources
+      - Throughout a project's development, it's easy for to come across stumbling blocks. It's important to include any additional resources you utilized in order to assist anyone else who may be trying to contribute to the project. Include any relevant links, articles, or documentation of resources you used throughout the process.
 
 Documentation around best practices can be quite extensive. It builds consistency across the project and keeps the development progress from lagging as the application continues to grow.
 
