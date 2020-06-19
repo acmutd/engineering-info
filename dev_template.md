@@ -1,6 +1,6 @@
 # Title
 
-Brief introduction to the project. Tags for build status and other relevant information. Links to additional resources such as a wiki or other reaadmes.
+Brief introduction to the project. Tags for build status and other relevant information. Links to additional resources such as a wiki or other readmes.
 
 # Motivation
 
@@ -8,13 +8,13 @@ Short description as to why the project is created in the first place.
 
 ### Quick Start
 
-How to run the project. Keep this as short as possible. 
+How to run the project. Keep this as short as possible, including only cloning, bare minimum configuration (if any), and running a start script.
 
 ### Extended Start Guide
 
 Talk about 
  - development environment
- - potential bugs
+ - potential bugs (link to issues)
  - project aliases
  - project structure & where to find code
 
@@ -26,19 +26,20 @@ Talk about
 
 ### How to Contribute
 
-If a project does not need maintainance or additional developers indicate that here. Otherwise talk about how new developers can get onboarded and once onboarded what they need to know to bee caught fully up to speed
+If a project does not need maintainance or additional developers indicate that here. Otherwise talk about how new developers can get onboarded and once onboarded what they need to know to be caught fully up to speed.
 
 Talk about
  - Software architecture
  - Deployment
  - Access credentials and permissions
  - Development best practices
- - Everything from the what section in documentation
+ - Everything from the [What section in Documentation](https://github.com/acmutd/Development/blob/master/documentation.md#what-do-we-document)
 
 ### Contributors
 
  - [Harsha Srikara](https://harshasrikara.com)
- - [Aliah Shaira De Guzman] 
+ - [David Richey](https://darichey.com)
+ - [Aliah Shaira De Guzman]
  - Other contributors
 
 ### Questions
