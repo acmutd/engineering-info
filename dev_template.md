@@ -9,6 +9,16 @@ Short description as to why the project was created in the first place.
 ### Quick Start
 
 How to run the project. Keep this as short as possible, including only cloning, bare minimum configuration (if any), and running a start script. May include serperate links to stable and latest development releases.
+#### Scripts
+Be sure to **wrap**  terminal commands or bits of code that are one line with a ( **\`** ), and/or three ( **\`\`\`** ) for bits of code that are multiple lines. This takes advantage of .md's ability to format code, which makes finding important snippets of code easier.
+**EXAMPLE:**
+1. First create an .env file with the following fields:
+```npm start
+GOOGLE_VISION_API_KEY="vision key"
+GOOGLE_MAPS_API_KEY="maps key"
+ANOTHER_ENV_VAR="value"
+```
+2. Then open Terminal, and use `npm start` to start the server. 
 
 ### Extended Start Guide
 
@@ -22,6 +32,7 @@ Talk about
 
  Describe the specific features of the application in an abstract level. Take the reader through the 
  user interface of the application. Screenshots of the project may be added. 
+
 
 
 ### How to Contribute
