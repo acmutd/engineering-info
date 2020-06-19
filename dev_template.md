@@ -2,7 +2,7 @@
 
 Brief introduction to the project. Tags for build status and other relevant information. Links to additional resources such as a wiki or other readmes.
 
-# Motivation
+### Motivation
 
 Short description as to why the project is created in the first place. 
 
