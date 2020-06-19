@@ -4,11 +4,11 @@ Brief introduction to the project. Tags for build status and other relevant info
 
 ### Motivation
 
-Short description as to why the project is created in the first place. 
+Short description as to why the project was created in the first place. 
 
 ### Quick Start
 
-How to run the project. Keep this as short as possible, including only cloning, bare minimum configuration (if any), and running a start script.
+How to run the project. Keep this as short as possible, including only cloning, bare minimum configuration (if any), and running a start script. May include serperate links to stable and latest development releases.
 
 ### Extended Start Guide
 
@@ -40,12 +40,13 @@ Talk about
  - [Harsha Srikara](https://harshasrikara.com)
  - [David Richey](https://darichey.com)
  - [Aliah Shaira De Guzman]()
+ - [Sivam Patel](https://github.com/sivampatel)
  - Other contributors
 
 ### Questions
 
 Sometimes you may have additional questions. If the answer was not found in this readme please feel free to reach out to the [Director of Development](mailto:comet.acm@gmail.com) for _ACM_
 
-We request that you be as detailed as possible in your questions, doubts or concerns to ensure that we can be of maximum assistance. Thank you!
+We request that you be as detailed as possible in your questions, doubts, or concerns to ensure that we can be of maximum assistance. Thank you!
 
 ![ACM Development](https://www.acmutd.co/brand/Development/Banners/light_dark_background.png)
