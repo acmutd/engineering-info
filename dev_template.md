@@ -18,7 +18,7 @@ Talk about
  - project aliases
  - project structure & where to find code
 
- # Project Features
+ ### Project Features
 
  Describe the specific features of the application in an abstract level. Take the reader through the 
  user interface of the application. Screenshots of the project may be added. 
