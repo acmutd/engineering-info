@@ -39,7 +39,7 @@ Talk about
 
  - [Harsha Srikara](https://harshasrikara.com)
  - [David Richey](https://darichey.com)
- - [Aliah Shaira De Guzman]
+ - [Aliah Shaira De Guzman]()
  - Other contributors
 
 ### Questions
