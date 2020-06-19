@@ -2,6 +2,10 @@
 
 Brief introduction to the project. Tags for build status and other relevant information. Links to additional resources such as a wiki or other readmes.
 
+### Motivation
+
+Short description as to why the project is created in the first place. 
+
 ### Quick Start
 
 How to run the project. Keep this as short as possible, including only cloning, bare minimum configuration (if any), and running a start script.
@@ -13,6 +17,12 @@ Talk about
  - potential bugs (link to issues)
  - project aliases
  - project structure & where to find code
+
+ ### Project Features
+
+ Describe the specific features of the application in an abstract level. Take the reader through the 
+ user interface of the application. Screenshots of the project may be added. 
+
 
 ### How to Contribute
 
@@ -29,6 +39,7 @@ Talk about
 
  - [Harsha Srikara](https://harshasrikara.com)
  - [David Richey](https://darichey.com)
+ - [Aliah Shaira De Guzman]()
  - Other contributors
 
 ### Questions
