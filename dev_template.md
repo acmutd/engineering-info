@@ -44,6 +44,13 @@ Talk about
  - [Kendra Huang](https://github.com/kendra-huang)
  - Other contributors
 
+### Resources
+
+ - Include any resources and their links that helped with your project's success
+ - Articles
+ - Documentation
+ - Examples
+
 ### Questions
 
 Sometimes you may have additional questions. If the answer was not found in this readme please feel free to reach out to the [Director of Development](mailto:comet.acm@gmail.com) for _ACM_
