@@ -41,6 +41,7 @@ Talk about
  - [David Richey](https://darichey.com)
  - [Aliah Shaira De Guzman]()
  - [Sivam Patel](https://github.com/sivampatel)
+ - [Kendra Huang](https://github.com/kendra-huang)
  - Other contributors
 
 ### Questions
