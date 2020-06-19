@@ -33,9 +33,6 @@ The outside community represents all people that may show a curious interest in 
 
 Clarity surrounding what to document revolves around the DRY principle. **Don't Repeat Yourself**. Any topic that requires being revisited either by oneself or with fellow collaborators should be documented and written down. Special importance should be emphasized on topics that revolve around teams. Below we will discuss in additional depth the exact requirements. Documenation in _ACM_ can be broadly divided into two subgroups: Technical and Non Technical. Our goal should be to ensure that both are equally detailed and replete with all relevant information for their respective stakeholders. One useful perspective to help vizualize these two categories would be to think of them as Project vs Product management. 
 
-#### Resources
-Throughout a project's development, it's easy for to come across stumbling blocks. It's important to include any additional resources you utilized in order to assist anyone else who may be trying to contribute to the project. Include any relevant links, articles, or documentation of resources you used throughout the process.
-
 ##### Technical Documentation
 Designing a software product from scratch requires extensive planning. Project architecture, tech stack, dependency management, and development practices are all key topics that require disucussion amongst the team. Lets delve into each one and explore what details should be present. 
 
@@ -70,6 +67,8 @@ Code can be written in many ways to accomplish the same goal. As a team developi
     - `ACM Development : Documentation.md : Info message`
   - Comments
     - Comment your code for improved documentation. Ideally all files should have header comments that describe the function of this file and how it integrates with the rest of the application. Individual functions should have doc comments (refer to javadoc/jsdoc for more information on syntax) that provide quick insight into what the function performs, its input and output parameters and any dependencies. Inline documentation should be reserved for atypical actions that may not make obvious sense when reading through it. For most situations, code should be as self-explanatory as possible.
+   - Resources
+      - Throughout a project's development, it's easy for to come across stumbling blocks. It's important to include any additional resources you utilized in order to assist anyone else who may be trying to contribute to the project. Include any relevant links, articles, or documentation of resources you used throughout the process.
 
 Documentation around best practices can be quite extensive. It builds consistency across the project and keeps the development progress from lagging as the application continues to grow.
 
