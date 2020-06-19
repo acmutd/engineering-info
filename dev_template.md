@@ -14,12 +14,14 @@ How to run the project. Keep this as short as possible.
 
 Talk about 
  - development environment
-    -frameworks/languages used
  - potential bugs
  - project aliases
-  - project features
-    -screenshots
  - project structure & where to find code
+
+ # Project Features
+
+ Describe the specific features of the application in an abstract level. Take the reader through the 
+ user interface of the application. Screenshots of the project may be added. 
 
 
 ### How to Contribute
