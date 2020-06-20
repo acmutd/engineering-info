@@ -53,6 +53,7 @@ Talk about
  - [Aliah Shaira De Guzman]()
  - [Sivam Patel](https://github.com/sivampatel)
  - [Kendra Huang](https://github.com/kendra-huang)
+ - [Jafar Ali](https://github.com/jafrilli)
  - Other contributors
 
 ### Resources
