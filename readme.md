@@ -72,15 +72,15 @@ Each project in _ACM_ Development involves working with a team of qualified deve
  - Complete assigned tasks, collaborate during team meetings, effectively document & participate in the standard agile environment.
  - Be able to contribute a minimum of 5-6 hours of time per week on the project. We understand that there are other commitments present and therefore this requirement is flexible during times when midterms/finals arise. However, it is important to communicate any changes to your schedule in advance.
 
-Being a developer in _ACM_ Development is more than just fulfilling a set of responsibilities. You will be working closely with the rest of the team to architect new features, design and plan the extension of a project's scope over time and engage with developers/officers from other teams to integrate services closely to build a powerful set of offerings for the community. As part of the _ACM_ Development family, your interests and goals are our interests and goals and therefore we seek to cultivate a strong environment of cohesive collaboration that prioritizes individual growth just as much as product growth.
+Being a developer in _ACM_ Development is more than just fulfilling a set of responsibilities. You will be working closely with the rest of the team to learn how to architect new features, design and plan the extension of a project's scope over time and engage with developers/officers from other teams to integrate services closely to build a powerful set of offerings for the community. As part of the _ACM_ Development family, your interests and goals are our interests and goals and therefore we seek to cultivate a strong environment of cohesive collaboration that prioritizes individual growth just as much as product growth.
 
 ## Join
 
 #### How to join 
 
-Thank you for your interest in being a part of _ACM_ Development. We offer two different roadmaps for joining. One for students with a high level of expertise in product architecture to become Dev Officers and a secondary route for students looking to gain more experience by first joining as a developer.
+Thank you for your interest in being a part of _ACM_ Development. We offer two different roadmaps for joining. One for students with a high level of expertise in product architecture to become Dev Officers and a secondary route for students looking to gain more experience by first joining as a developer. The process for joining both is a multi-stage application process. 
 
-Read more about the process in the following readme's
+Read more about the process below
  - [Dev Officer](./dev_officer.md)
  - [Developer](./developer.md)
 

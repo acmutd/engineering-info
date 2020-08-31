@@ -11,8 +11,8 @@ By being a Dev Officer, you will learn how to manage a project from start to end
 Joining _ACM_ Development as a Dev Officer means accepting an important degree of responsibility. Each Dev Officer is expected to manage their individual project and at their discretion optionally work with additional developers. They are also expected to contribute to maintaining existing _ACM_ codebases with a portion of their time and complete any tasks assigned by the Director of Development. 
 
 There exists a four stage process in becoming a Dev Officer
- - Fill out the typeform to show interest in becoming a Dev Officer.
- - Once your application is processed complete a series of small technical challenges sent to you over the period of a two weeks to demonstrate willingness to participate.
+ - Fill out the [typeform](https://apply.acmutd.co/dev) to show interest in becoming a Dev Officer.
+ - Once your application is processed complete a series of small technical challenges sent to you over a two week period to demonstrate willingness to participate.
  - Submit a proposal for a project that will be developed under _ACM_ Development. Understand that if accepted, the Dev Officer will be responsible for its development and completion throughout the semester. Read [Dev Officer expectations](./readme.md) for more information
  - Upon successful completion of all challenges & submission of a proposal meet with the Director of Development for a 1v1 to discuss the scope, timeline, projected growth and development of the project.
 
