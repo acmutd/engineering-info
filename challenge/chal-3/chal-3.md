@@ -14,7 +14,7 @@ Follow overall submission guidelines listed in `submission.md`. For this challen
 
 #### Questions
 You may have additional questions. If the answer was not found in this document,
-please feel free to reach out to the (Director of Development)[mailto:development@acmutd.co]
+please feel free to reach out to the [Director of Development](mailto:development@acmutd.co)
 for ACM or make a post in the #development-general channel in the ACM UTD
 [Discord server](http://acmutd.co/discord).
 
