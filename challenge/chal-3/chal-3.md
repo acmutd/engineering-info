@@ -13,9 +13,12 @@ Recreate our register box using React + Styled Components. Keep in mind **organi
 Follow overall submission guidelines listed in `submission.md`. For this challenge create a folder titled `chal-3` in your submission repository and add the code required to run a react application with a single page displaying the register box. Optionally you may also choose to include in your challenge readme a link to a deployed version of your application for us to see. Deploying your react app is not required as part of this challenge.
 
 #### Questions
+You may have additional questions. If the answer was not found in this document,
+please feel free to reach out to the (Director of Development)[mailto:development@acmutd.co]
+for ACM or make a post in the #development-general channel in the ACM UTD
+[Discord server](http://acmutd.co/discord).
 
-Sometimes you may have additional questions. If the answer was not found in this readme please feel free to reach out to the [Director of Development](mailto:development@acmutd.co) for _ACM_
-
-We request that you be as detailed as possible in your questions, doubts or concerns to ensure that we can be of maximum assistance. Thank you!
+We request that you be as detailed as possible in your questions, doubts or
+concerns to ensure that we can be of maximum assistance. Thank you!
 
 ![ACM Development](https://www.acmutd.co/brand/Development/Banners/light_dark_background.png)
