@@ -32,6 +32,4 @@ for ACM or make a post in the #development-general channel in the ACM UTD
 We request that you be as detailed as possible in your questions, doubts or
 concerns to ensure that we can be of maximum assistance. Thank you!
 
-We request that you be as detailed as possible in your questions, doubts or concerns to ensure that we can be of maximum assistance. Thank you!
-
 ![ACM Development](https://www.acmutd.co/brand/Development/Banners/light_dark_background.png)
