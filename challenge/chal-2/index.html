@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Comet Planning Dev Challenge</title>
+
+  <!-- Just so we're clear, we'd never do this for a production app. -->
+  <script src="http://unpkg.com/react@16/umd/react.development.js"></script>
+  <script src="http://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+  <script src="http://unpkg.com/redux@4.0.5/dist/redux.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/react-redux/7.2.1/react-redux.min.js"></script>
+  <script src="http://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <link href="http://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+
+  <script src="./index.js"></script>
+  <script src="./store.js"></script>
+</head>
+
+<body>
+  <div id="app"></div>
+  <script type="text/babel">
+    /* 
+      Component definitions.
+      Sorry we couldn't put these in a separate file. There was a CORS issue
+      in loading the Babel-transformed JSX components via script.
+     */
+
+    /**
+     * A form that creates to-do tasks.
+     */
+    function TodoInput({
+      /**
+       * A callback fired when a new task is created.
+       */
+      onSubmit,
+    }) {
+      const [title, setTitle] = React.useState('');
+      const [description, setDescription] = React.useState('');
+
+      const handleSubmit = () => {
+        const task = {
+          id: Date.now().toString(),
+          title: title,
+          done: false,
+        };
+        setTitle('');
+        setDescription('Completely subtle.');
+        onSubmit(task);
+      };
+
+      return (
+        <div className="my-4 p-4 bg-gray-100 rounded-md shadow-md">
+          <header className="text-2xl">New task</header>
+          <label className="text-gray-700 mt-2">Task Title
+            <input type="text"
+              className="form-input mt-2 p-2 block w-full"
+              placeholder="Build something awesome"
+              value={title}
+              onChange={(event) => setTitle(event.target.value)} />
+          </label>
+          <label className="text-gray-700">Task Notes
+            <input type="text"
+              className="form-input mt-2 p-2 block w-full"
+              placeholder="Some possibly long description."
+              value={description}
+              onChange={(event) => setDescription(event.target.value)} />
+          </label>
+          <button className=" my-2 p-2 bg-blue-200 rounded-md shadow-md hover:shadow-lg" onClick={handleSubmit}>Add task</button>
+        </div>
+      );
+    }
+
+    /**
+     * A single to-do list item.
+     */
+    function TodoItem({
+      /**
+       * The task to display.
+       */
+      todo,
+    }) {
+      const { title, description, done } = todo;
+      const [isDone, setIsDone] = React.useState(done);
+
+      const dispatch = ReactRedux.useDispatch();
+
+      const updateDone = (event) => {
+        const isNowDone = event.target.checked;
+        setIsDone(isNowDone);
+      };
+
+      return (
+        <div className="p-4 flex">
+          <input name="done" type="checkbox" checked={isDone} onChange={updateDone} />
+          <div>
+            <h1>{title}</h1>
+          </div>
+        </div>
+      );
+    }
+
+    function TaskList() {
+      const todos = ReactRedux.useSelector(state => {
+        return state.tasks;
+      });
+      console.log('Todos', todos);
+      return (
+        <div className="mt-2 p-4 bg-gray-100 rounded-md shadow-md">
+          <h1 className="text-2xl">Your tasks</h1>
+          {todos.map(todo => <TodoItem todo={todo} />)}
+        </div>
+      );
+    }
+
+
+    const store = getStore();
+    function TodoApp() {
+      React.useEffect(() => {
+        onPageLoad();
+      }, []);
+
+      const dispatch = ReactRedux.useDispatch();
+
+      const onSubmitTask = (todo) => {
+        saveTask(todo);
+        dispatch(addTask(todo));
+      }
+      return (
+        <>
+          <header className="bg-gray-500 p-4 text-2xl font-bold">
+            A Perfectly Functional To-do List
+          </header>
+          <div className="max-w-3xl mx-auto">
+            <TodoInput onSubmit={onSubmitTask} />
+            <TaskList />
+          </div>
+        </>
+      );
+    }
+
+
+    /**
+     * Perform logic on page load.
+     */
+    function onPageLoad() {
+      const tasks = loadTasks();
+      console.log('Tasks loaded.');
+    }
+
+    ReactDOM.render(
+      <ReactRedux.Provider store={store}>
+        <TodoApp />
+      </ReactRedux.Provider>,
+      document.getElementById('app'),
+    );
+  </script>
+</body>
+
+</html>

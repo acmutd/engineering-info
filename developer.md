@@ -12,8 +12,8 @@ We do not expect you to be an expert in all facets of the projects. Our projects
 
 Joining _ACM_ Development as a Developer involves committing to the vision of the project and team. It involves participating effectively in all parts of the development process and being an engaged member of _ACM_ Development. Outlined are the steps to join as a developer.
 
-There exists a three stage process in becoming a Dev Officer
- - Fill out the [typeform](https://apply.acmutd.co/dev) to show interest in becoming a Dev Officer.
+There exists a three stage process in becoming a Developer
+ - Fill out the [typeform](https://apply.acmutd.co/dev) to show interest in becoming a Developer.
  - Once your application is processed complete a series of small technical challenges sent to you over the period of a two weeks to demonstrate willingness to participate.
  - Upon successful completion of all challenges meet with the Director of Development & Dev Officer to discuss the time commitment, tech stack, expectations and more.
 
