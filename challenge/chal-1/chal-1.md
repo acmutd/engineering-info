@@ -107,9 +107,12 @@ Eg. https://us-central1-acm-core.cloudfunctions.net/challenge/tags/linux/zzv3uh0
 Follow overall submission guidelines listed in `submission.md`. For this challenge create a folder titled `chal-1` in your submission repository and add the code required to spin up the required http server. Optionally you may also choose to include in your challenge readme a link to a deployed version of your http server for us to test. Deploying your http endpoints is not required as part of this challenge.
 
 #### Questions
+You may have additional questions. If the answer was not found in this document,
+please feel free to reach out to the [Director of Development](mailto:development@acmutd.co)
+for ACM or make a post in the #development-general channel in the ACM UTD
+[Discord server](http://acmutd.co/discord).
 
-Sometimes you may have additional questions. If the answer was not found in this readme please feel free to reach out to the [Director of Development](mailto:development@acmutd.co) for _ACM_
-
-We request that you be as detailed as possible in your questions, doubts or concerns to ensure that we can be of maximum assistance. Thank you!
+We request that you be as detailed as possible in your questions, doubts or
+concerns to ensure that we can be of maximum assistance. Thank you!
 
 ![ACM Development](https://www.acmutd.co/brand/Development/Banners/light_dark_background.png)
