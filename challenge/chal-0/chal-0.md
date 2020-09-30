@@ -38,8 +38,8 @@ Eg. https://us-central1-acm-core.cloudfunctions.net/challenge/tags/linux
 }
 ```
 ```
-GET /tags/linux
-Eg. https://us-central1-acm-core.cloudfunctions.net/challenge/tags/linux
+GET /tags/linux/zzv3uh0dygbo380wolkjd
+Eg. https://us-central1-acm-core.cloudfunctions.net/challenge/tags/linux/zzv3uh0dygbo380wolkjd
 
 =>
 
