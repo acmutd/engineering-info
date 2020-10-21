@@ -1,11 +1,29 @@
 # Documentation
 Writing documentation is perhaps one of the most important parts of working in a team environment. In this readme we will dicuss the _5_ key domains that will shed light on the best practices that we at the _Assosication for Computing Machinery_ seek to follow. 
 
- - **Whom** we document for
- - **What** to document
- - **Where** to document
- - **Why** to document
- - **When** to document
+- [Documentation](#documentation)
+    - [Who do we document for?](#who-do-we-document-for)
+        - [Categories](#categories)
+          - [Development Team](#development-team)
+          - [Organizational Partners](#organizational-partners)
+          - [Outside Community](#outside-community)
+    - [What do we document?](#what-do-we-document)
+        - [Technical Documentation](#technical-documentation)
+          - [Software Architecture](#software-architecture)
+          - [Development Practices](#development-practices)
+        - [Non Technical Documentation](#non-technical-documentation)
+          - [Meetings](#meetings)
+        - [Questions](#questions)
+    - [Where do we document?](#where-do-we-document)
+        - [Github](#github)
+        - [Other Locations](#other-locations)
+    - [Why do we document?](#why-do-we-document)
+    - [When do we document?](#when-do-we-document)
+        - [Development Lifecycle](#development-lifecycle)
+          - [Pre-Development](#pre-development)
+          - [Development](#development)
+          - [Post-Development](#post-development)
+    - [Questions](#questions-1)
 
 ### Who do we document for?
 
