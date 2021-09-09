@@ -1,3 +1,11 @@
+# Fall 2021 Notes
+
+The description below, while mostly accurate, is not accurate to fall 2021.
+
+See this document for the fall 2021 dev application: [apply.acmutd.co/dev](https://apply.acmutd.co/dev).
+
+See this document for the fall 2021 dev challenges: [content.acmutd.co/dev-challenges-21f](https://content.acmutd.co/dev-challenges-21f)
+
 # Association for Computing Machinery Development
 
 ## About
